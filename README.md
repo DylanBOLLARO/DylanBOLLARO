@@ -8,7 +8,7 @@ BIO //
 
 
 
-* 🌍 J'habite à Cannes en france <a href="" target="_blank" rel=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/langfr-225px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png" width="36" height="23" alt="HTML5" /></a>
+* 🌍 J'habite à Cannes en France <a href="" target="_blank" rel=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/langfr-225px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png" width="36" height="23" alt="HTML5" /></a>
 * ✉️ Vous pouvez me contacter à [bollarodylan@gmail.com](mailto:bollarodylan@gmail.com)
 * 🧠 J'apprends HTML/CSS/JS/React
 
