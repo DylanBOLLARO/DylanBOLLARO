@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
+Après avoir fait un BAC+3 dans les systèmes électroniques embarqués, j'ai finalement décidé de m'orienter vers le développement web. J'ai appris en autodidacte en commençant par le HTML, CSS et Javascript. Actuellement je me spécialise avec la library React.
 
 ## 🚀 Languages and Tools:
 
