@@ -16,6 +16,6 @@ Après avoir fait un BAC+3 en systèmes électroniques embarqués, j'ai finaleme
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-### 👨‍💻 Formation suivi:
+### 🙋‍♂️ About Me
 
-Les formations qui m'ont permis d'apprendre le developpement web :
+Après avoir fait un BAC+3 en systèmes électroniques embarqués, j'ai finalement décidé de m'orienter vers le développement web. J'ai appris en autodidacte en commençant par le HTML, CSS et Javascript. Actuellement je me spécialise avec la library React afin de devenir développeur front-end.
