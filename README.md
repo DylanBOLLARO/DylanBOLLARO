@@ -4,7 +4,7 @@
 
 ### 🙋‍♂️ About Me
 
-Après avoir fait un BAC+3 en systèmes électroniques embarqués, j'ai finalement décidé de m'orienter vers le développement web. J'ai appris en autodidacte en commençant par le HTML, CSS et Javascript. Actuellement je me spécialise avec la library React afin de devenir développeur front-end.
+Après avoir fait un BAC+3 en systèmes électroniques embarqués, j'ai finalement décidé de m'orienter vers le développement web. J'ai appris en autodidacte en commençant par HTML, CSS et Javascript. Actuellement je me spécialise avec la library React afin de devenir développeur front-end.
 <br />
 
 ### 🚀 Languages and Tools:
