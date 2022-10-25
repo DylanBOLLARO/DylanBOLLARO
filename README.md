@@ -1,6 +1,4 @@
-Développeur front-end
-
-<h1 align="center">Hi 👋, je m'appelle Dylan BOLLARO</h1>
+<h1 align="center">Bonjour 👋, je m'appelle Dylan BOLLARO</h1>
 <h3 align="center">Développeur front-end</h3>
 
 ## 🙋‍♂️ About Me
