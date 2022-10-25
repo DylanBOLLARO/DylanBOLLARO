@@ -16,4 +16,6 @@ Après avoir fait un BAC+3 en systèmes électroniques embarqués, j'ai finaleme
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-## 👨‍💻 Languages and Tools:
+## 👨‍💻 Formation suivi:
+
+Les formations qui m'ont permis d'apprendre le developpement web :
