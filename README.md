@@ -30,3 +30,4 @@ Après avoir fait un BAC+3 en systèmes électroniques embarqués, j'ai finaleme
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/> 
 </div>
 
+<h2>👩‍💻 IDE</h2>
