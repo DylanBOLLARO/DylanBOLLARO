@@ -2,7 +2,7 @@
 <h3 align="center">Développeur front-end</h3>
 <br />
 
-<h2>🙋‍♂️ About Me</h2>
+<h2>🙋‍♂️ À propos</h2>
 
 Après avoir fait un BAC+3 en systèmes électroniques embarqués, j'ai finalement décidé de m'orienter vers le développement web. J'ai appris en autodidacte en commençant par HTML, CSS et Javascript. Actuellement je me spécialise avec la library React afin de devenir développeur front-end.
 <br />
@@ -11,7 +11,7 @@ Après avoir fait un BAC+3 en systèmes électroniques embarqués, j'ai finaleme
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  
 
-<h2>🚀 Languages and Tools</h2>
+<h2>🚀 Languages et outils</h2>
 
 <div style="padding:10px;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -30,4 +30,4 @@ Après avoir fait un BAC+3 en systèmes électroniques embarqués, j'ai finaleme
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/> 
 </div>
 
-<h2>👩‍💻 IDE</h2>
+<h2>👩‍💻 Mes projets</h2>
