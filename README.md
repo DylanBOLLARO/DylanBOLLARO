@@ -9,7 +9,9 @@ Après avoir fait un BAC+3 en systèmes électroniques embarqués, j'ai finaleme
 
 <h2>📱 Contact</h2>
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  
+
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> `bollarodylan@gmail.com`
+
 
 <h2>🚀 Languages et outils</h2>
 
@@ -31,3 +33,5 @@ Après avoir fait un BAC+3 en systèmes électroniques embarqués, j'ai finaleme
 </div>
 
 <h2>👩‍💻 Mes projets</h2>
+
+Je travaille sur une application web qui permet aux utilisateurs de progresser dans un jeu vidéo compétitif.
