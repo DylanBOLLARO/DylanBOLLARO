@@ -34,4 +34,4 @@ Après avoir fait un BAC+3 en systèmes électroniques embarqués, j'ai finaleme
 
 <h2>👩‍💻 Mes projets</h2>
 
-Je travaille sur une application web qui permet aux utilisateurs de progresser dans un jeu vidéo compétitif.
+Je travaille sur une application web qui permet aux utilisateurs de progresser rapidement dans un jeu vidéo compétitif. Cette application est faite en react js, le principe est de dicter à l'utilisateur quoi faire durant la partie de jeu.
