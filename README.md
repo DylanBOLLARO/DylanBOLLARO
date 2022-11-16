@@ -35,3 +35,5 @@ Après avoir fait un BAC+3 en systèmes électroniques embarqués, j'ai finaleme
 <h2>📚 Portfolio</h2>
 
 <h2>📝 CV</h2>
+
+Mon CV est disponible en version web ici : https://www.db-cv.online/
