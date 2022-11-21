@@ -4,7 +4,7 @@
 
 <h2>🙋‍♂️ À propos</h2>
 
-Après avoir fait un BAC+3 en systèmes électroniques embarqués, j'ai finalement décidé de m'orienter vers le développement web. J'ai appris en autodidacte en commençant par HTML, CSS et Javascript. Actuellement je me spécialise avec la library React afin de devenir développeur front-end.
+Après l'obtention de mon BAC+3 en systèmes électroniques embarqués, j'ai finalement décidé de m'orienter vers le développement web. J'ai appris en autodidacte en commençant par HTML, CSS et Javascript. Actuellement je me spécialise avec le Next.js un framework React afin de devenir développeur front-end. J'apprends aussi différentes bibliothèques telles que Redux pour une gestion d'état, enfin pour l'animation de page web j'utilise GreenSock, Particules.js et Three.js
 <br />
 
 <h2>📱 Contact</h2>
