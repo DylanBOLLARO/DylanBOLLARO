@@ -4,7 +4,7 @@
 
 <h2>🙋‍♂️ À propos</h2>
 
-Après l'obtention de mon BAC+3 en systèmes électroniques embarqués, j'ai finalement décidé de m'orienter vers le développement web. J'ai appris en autodidacte en commençant par HTML, CSS et Javascript. Actuellement je me spécialise avec Next.js un framework React afin de devenir développeur front-end. J'apprends aussi différentes bibliothèques telles que Redux pour une gestion d'état et GreenSock, Particules.js et Three.js pour l'animation de page web.
+Après l'obtention de ma licence Systèmes embarqués, j'ai finalement décidé de m'orienter vers le développement web. J'ai appris en autodidacte en commençant par HTML, CSS et Javascript. Actuellement je me spécialise avec le framework Next.js s'appuyant sur la bibliothèque JavaScript React et sur la technologie Node.js ainsi que la bibliothèque Redux Toolkit. Je développe en mobile first et responsive avec tailwind css.
 <br />
 
 <h2>📱 Contact</h2>
@@ -32,7 +32,6 @@ Après l'obtention de mon BAC+3 en systèmes électroniques embarqués, j'ai fin
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/> 
 </div>
 
-<h2>📚 Portfolio</h2>
 
 <h2>📝 CV</h2>
 
