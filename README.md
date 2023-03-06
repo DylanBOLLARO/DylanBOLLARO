@@ -1,5 +1,5 @@
 <h1 align="center">Dylan BOLLARO</h1>
-<h3 align="center">Développeur front-end</h3>
+<h3 align="center">Développeur full stack</h3>
 <br />
 
 <h2>🙋‍♂️ À propos</h2>
