@@ -4,7 +4,7 @@
 
 <h2>🙋‍♂️ À propos</h2>
 
-Après l'obtention de ma licence Systèmes embarqués, j'ai finalement décidé de m'orienter vers le développement web. J'ai appris en autodidacte en commençant par HTML, CSS et Javascript. Actuellement je me spécialise avec le framework Next.js s'appuyant sur la bibliothèque JavaScript React et sur la technologie Node.js ainsi que la bibliothèque Redux Toolkit. Je développe en mobile first et responsive avec tailwind css.
+Après l'obtention de ma licence Systèmes embarqués, j'ai finalement décidé de m'orienter vers le développement web. J'ai appris en autodidacte et je suis actuellement à la recherche d'une alternance afin de suivre une formation équivalente Bac+3/4 de "développeur web & devops".
 <br />
 
 <h2>📱 Contact</h2>
