@@ -2,10 +2,10 @@
 <h3 align="center">Développeur mobile Full Stack - React/Node</h3>
 <br />
 
-<h2>🙋‍♂️ À propos</h2>
+<!-- <h2>🙋‍♂️ À propos</h2>
 
 Après l'obtention de ma licence Systèmes embarqués, j'ai finalement décidé de m'orienter vers le développement web. J'ai appris en autodidacte et je suis actuellement à la recherche d'une alternance afin de suivre une formation équivalente Bac+3/4 de "développeur web & devops".
-<br />
+<br /> -->
 
 <h2>📱 Contact</h2>
 
