@@ -1,5 +1,5 @@
 <h1 align="center">Dylan BOLLARO</h1>
-<h3 align="center">Développeur mobile Full Stack - React/Node</h3>
+<h3 align="center">Développeur d'application mobile full stack - React/Node</h3>
 <br />
 
 <!-- <h2>🙋‍♂️ À propos</h2>
